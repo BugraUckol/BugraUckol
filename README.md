@@ -1,4 +1,4 @@
 - Hi, I’m @BugraUckol
-- I’m a mechanical engineer working in Aerospace industry and interested in robotics!
-- I’m currently doing MSc. @METU
-- This page is my personal workspace and its created s.t. my documents will be saved in cloud
+- I’m a Mechanical Engineer graduated from @METU/Ankara. Currently pursuing a Msc. Degree on Robotics
+- I had worked as a modelling and simulation engineer in aerospace indsutry. Now I am working on autonomous systems.
+- This page is my personal workspace and its created s.t. my documents will not be lost, and I can show my work
